@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<translate
+android:toXDelta="-5"
+android:toYDelta="-6"
+android:fillAfter="true"
+android:duration="50" />
+</set>
+<!-- 
+fromXDelta,fromYDelta起始时X，Y座标,屏幕右下角的座标是X:800,Y:444
+toXDelta，toYDelta动画结束时X,Y的座标
+ -->
